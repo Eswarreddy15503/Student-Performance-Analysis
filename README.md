@@ -30,48 +30,19 @@ This project analyzes student academic performance using demographic and assessm
 * Female students perform better in reading and writing.
 * 18.8% of students were identified as academically at risk.
 
-# 📊 Project Visualizations
+# Project Visualizations
 
-## 1. Box Plot: Parental Education vs Math Score
-
-This visualization shows how parental education levels influence student mathematics performance.
-
-![Box Plot](images/boxplot.png)
-
-
-## 2. Test Preparation Course Comparison
-
-Students who completed the test preparation course achieved higher average scores across all subjects.
-
-![Test Preparation](images/testprep_bar.png)
-
-
-## 3. Correlation Heatmap
-
-The heatmap illustrates the relationships between math, reading, and writing scores.
+## Correlation Heatmap
 
 ![Heatmap](images/heatmap.png)
 
-## 4. Gender vs Subject Performance
+## Test Preparation Impact
 
-This chart compares average subject scores between male and female students.
+![Test Preparation](images/testprep_bar.png)
 
-![Gender Performance](images/gender_bar.png)
+## Gender Performance Comparison
 
-
-## 5. Total Score Distribution
-
-The histogram shows the distribution of total student scores across the dataset.
-
-![Histogram](images/histogram.png)
-
-
-## 6. Reading Score vs Math Score
-
-The scatter plot demonstrates the positive relationship between reading and mathematics performance.
-
-![Scatter Plot](images/scatterplot.png)
-
+![Gender](images/gender_bar.png)
 ## Project Files
 
 * Student_Performance_Analysis.ipynb
