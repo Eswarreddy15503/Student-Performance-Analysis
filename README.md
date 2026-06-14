@@ -34,15 +34,15 @@ This project analyzes student academic performance using demographic and assessm
 
 ## Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ## Test Preparation Impact
 
-![Test Preparation](images/testprep_bar.png)
+![Test Preparation](testprep_bar.png)
 
 ## Gender Performance Comparison
 
-![Gender](images/gender_bar.png)
+![Gender](gender_bar.png)
 ## Project Files
 
 * Student_Performance_Analysis.ipynb
