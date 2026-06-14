@@ -30,6 +30,20 @@ This project analyzes student academic performance using demographic and assessm
 * Female students perform better in reading and writing.
 * 18.8% of students were identified as academically at risk.
 
+# Project Visualizations
+
+## Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+## Test Preparation Impact
+
+![Test Preparation](images/testprep_bar.png)
+
+## Gender Performance Comparison
+
+![Gender](images/gender_bar.png)
+
 ## Project Files
 
 * Student_Performance_Analysis.ipynb
